@@ -126,7 +126,10 @@ Predicted Digit
 ```
 
 ---
+## Evaluation
 
+- Assessed model performance using standard evaluation metrics to ensure reliable classification outcomes.
+- Performed prediction analysis to identify common digit misclassifications and interpret model behavior.
 ## Resume Description
 
 **Handwritten Digit Recognition using CNN | PyTorch, Streamlit**
