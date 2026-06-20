@@ -132,12 +132,10 @@ Predicted Digit
 - Performed prediction analysis to identify common digit misclassifications and interpret model behavior.
 ## Resume Description
 
-**Handwritten Digit Recognition using CNN | PyTorch, Streamlit**
-
-- Built a CNN-based handwritten digit recognition system using the MNIST dataset.
-- Trained and evaluated the model using PyTorch to classify digits from 0–9.
-- Developed a Streamlit interface for real-time digit prediction.
-- Implemented image preprocessing, model training, and inference workflows.
+- Built a deep learning-based handwritten digit recognition system for automated classification of grayscale handwritten digits.
+- Implemented and evaluated a Convolutional Neural Network (CNN) on the MNIST dataset for digit classification.
+- Assessed model performance through prediction analysis and standard evaluation metrics for reliable classification outcomes.
+- Analyzed prediction outcomes to identify common misclassification patterns and interpret model behavior effectively.
 
 ---
 
